@@ -1,4 +1,4 @@
-# laravel01-create
+# laraveltest2-create
 
 ## STEP00-- create 
     cmd指令:  composer create-project laravel/laravel --prefer-dist `專案名稱`
